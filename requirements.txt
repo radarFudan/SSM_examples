@@ -136,3 +136,5 @@ Werkzeug==3.0.1
 wrapt==1.16.0
 xxhash==3.4.1
 yarl==1.9.4
+ipywidgets==8.1.2
+jupyter-1.0.0
